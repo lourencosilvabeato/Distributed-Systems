@@ -114,3 +114,4 @@ bash test-sd-tp2.sh   # Part 2 test suite
 ---
 
 **Distributed systems concepts demonstrated:** service auto-discovery via multicast, remote invocation with REST and gRPC, fault-tolerant state replication (primary/secondary and Kafka), TLS mutual authentication, and cross-domain message routing — all built against a fixed service contract to ensure interoperability with an automated test suite.
+
